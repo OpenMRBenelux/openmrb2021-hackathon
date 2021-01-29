@@ -2,7 +2,7 @@
 
 <!-- TOC -->
 
-- [OpenMR Benelux 2020 Hackathon](#openmr-benelux-2020-hackathon)
+- [OpenMR Benelux 2021 Hackathon](#openmr-benelux-2021-hackathon)
   - [What is a hackathon?](#what-is-a-hackathon)
   - [What kind of projects can you find in a hackathon?](#what-kind-of-projects-can-you-find-in-a-hackathon)
   - [Suggest a project](#suggest-a-project)
@@ -13,17 +13,17 @@
 
 <!-- /TOC -->
 
-# OpenMR Benelux 2020 Hackathon
+# OpenMR 2021 Hackathon
 
 ![OpenMRB logo](img/banner.png)
 
-This repository hosts the hackathon projects and communication related to the HackTrack of [OpenMR Benelux 2020](https://openmrbenelux.github.io/page-openmrb-2020/). Visit our website if you want to learn more about OpenMR Benelux, or register now if you want to join!
+This repository hosts the hackathon projects and communication related to the HackTrack of [OpenMR 2021](https://openmrbenelux.github.io/). Visit our website if you want to learn more about OpenMR, or register now if you want to join!
 
-In order to take part in the HackTrack, you will first have to register for the event. After that, you can suggest a project to lead at OpenMR Benelux 2020, or join a project that has already been suggested.
+In order to take part in the **HackTrack**, you will first have to register for the event. After that, you can either suggest a project to lead at OpenMR 2021, or join a project that has already been suggested.
 
 At the beginning of our event, all project leaders will briefly describe their project to recruit team members.
-If you are interested in a certain project, you can approach these project leaders afterwards and express your interest in participating.
-At the end of the openMR event, there will be wrap up of each project with a short presentation to inform attendees about the project progress and future tasks to be done.
+If you are interested in a certain project, you can approach the project leaders afterwards and express your interest in participating.
+At the end of the OpenMR event, there will be wrap up of each project with a short presentation to inform attendees about the project progress and future tasks to be done.
 
 ## What is a hackathon?
 
@@ -81,7 +81,7 @@ Finally, create a project title, replace the template content with the specifics
 
 #### Label your project
 
-We have designed a [list of issue labels](https://github.com/OpenMRBenelux/openmrb2020-hackathon/labels) so that attendees can quickly identify projects that might match their interest and skill levels.
+We have designed a [list of issue labels](https://github.com/OpenMRBenelux/openmrb2021-hackathon/labels) so that attendees can quickly identify projects that might match their interest and skill levels.
 
 Make good use of those labels and you tag your project appropriately.
 
