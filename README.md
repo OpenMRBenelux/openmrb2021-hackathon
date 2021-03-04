@@ -39,12 +39,11 @@ After the hackathon, you can keep collaborating to finish the project and even d
 
 The projects can be things the project leader is already working on, or a project for which they would like to receive contribution/opinion/help, or a completely new project they would like to accomplish with group work.
 
-You can find example of projects listed in the different [brainhack events](http://www.brainhack.org/) or directly on the websites of previous hackathons :
+You can find example of projects listed in the different [brainhack events](http://www.brainhack.org/) or directly on the websites of previous hackathons:
 
-- [BrainHack Ghent 2018](https://brainhackghent.github.io)
-- [OHBM 2019 hackathon](https://github.com/ohbm/hackathon2019/issues)
-- [Brainhack Princeton 2019](https://github.com/brainhack-princeton/brainhack-princeton-2019)
-- [Brainhack Open Geneva 2020]("https://brainhack.ch/#portfolio)
+- [Last year's OpenMR Benelux](https://github.com/OpenMRBenelux/openmrb2020-hackathon/labels/Hackathon%20Project)
+- [OHBM hackathon 2020](https://ohbm.github.io/hackathon2020/hacktrack/)
+- [Brainhack Open Geneva 2020](https://brainhack.ch/#portfolio)
 - ...
 
 If this is not enough, here are some projects that you could propose:
@@ -56,7 +55,7 @@ If this is not enough, here are some projects that you could propose:
 
 ## Suggesting or joining a project
 
-When you propose a project make sure that it has a rough plan about the amount of work that needs to be done and that it has clear goals that can be (partly) achieved during the (short) amount of time you are provided with.
+When you propose a project, make sure that it has a rough plan about the amount of work that needs to be done and that it has clear goals that can be (partly) achieved during the (short) amount of time you are provided with.
 
 Since you won’t have any knowledge about the expertise profile of the other Brainhack attendees until the hackathon starts, it is better to incorporate some flexibility into your project plan and schedule. Because there is always a possibility of getting help from any number of attendees on many different aspects of your project that you didn’t plan ahead. Please do not undermine the contribution that would come from any of the attendees at the event. This is one of the important parts of the event. Be inclusive and open to the contributions. Especially if they come from an early career researcher and he/she is there to learn from you; please do not forget that you were one of them once too and that providing people with an environment to learn and improve themselves is one of the main goals and gains of the event. And again you would never be able to know which contribution an attendee could provide you with. Therefore, it is always better to keep yourself open to different ideas and contributions and to let the brainstorming help you achieve your project’s goals.
 
@@ -64,7 +63,7 @@ We explain below how to to propose your own project idea, but if you're not sure
 
 ### Using GitHub issues to create a project
 
-Projects are created as `issues` on this GitHub repository to allow for a sensible workflow of project description and communication. For a good example of how this has worked in the past, see the list of projects for the recent [OHBM Hackathon](https://github.com/ohbm/hackathon2019/issues?page=2&q=is%3Aissue+is%3Aopen).
+Projects are created as `issues` on this GitHub repository to allow for a sensible workflow of project description and communication. For a good example of how this has worked in the past, see the list of projects for last year's [OpenMR Benelux](https://github.com/OpenMRBenelux/openmrb2020-hackathon/labels/Hackathon%20Project).
 
 First, select the `Issue` tab and then click on `New Issue`.
 
@@ -89,21 +88,23 @@ Make good use of those labels and you tag your project appropriately.
 
 
 ## Tips to run a successful hackathon
+**Preparation**:
+- Have a clear (concrete) goal in mind: what would you like to achieve during the event? If applicable, you can even define subgoals to keep everyone motivated and to plan for uncertainty. 
+- Make explicit what you expect from collaborators: do they need specific skills or knowledge?
+- Think about how you are going to work together and prepare for it, for example via Google Documents, GitHub, Discord, Open Science Framework, HackMD, etc.
 
-- Be sure to thank people who attend your hackathon! These are the people who are interested in helping.
-- Don’t assume people in the room know more, or less, than you do. You never know who is going to be interested in your session.
-- A great way to start a session is to ask attendees to say why they came to your session or what special skills they have that could be helpful. This can help you steer the session to be helpful to them and gives you an idea of the resources/skills you have in the room!
-- Another good early activity is "whiteboard time": Working out the scope of the project, mapping out the units of the project, and identifying how these units will integrate.
-- Remind people that if they want to swap groups/leave the room to do something else that's ok and encouraged. This is all about getting the most out of people's enthusiasm and having people feel like they have no choice but to stay can kill that.
-- It can be hard to know how many people will attend each session and what their skills are. To plan for this uncertainty, you may want to prioritize the things the hackathon is trying to accomplish.
-- If you have a large group, break the group down and divide the project into units, and have people elect to work on different components. If you have a smaller group, you can focus on the top priorities.
-- Think about the flow of information and how attendees can share their work with one another.
-- When you break out into groups, it is often a few teams spread around the room working on laptops. Using tools like OSF, Google Documents, GitHub, Slack, etc. can be useful.
-- Consider getting contact information of people who want to continue the work after the hackathon. Sometimes a hackathon can be used as a few hours of in-person planning for work that a few people will do over the course of a longer period of time. You may find a group of dedicated people who will do some follow-up work to your hackathon.
-- Before your hackathon disbands, try to organize any materials that you want to share with others. This might be as simple as assigning somebody to organize an OSF project.
-- If things stall, get a group together and talk through the issues. Drawing diagrams, and talking through what you’re trying to achieve is an important process in identifying roadblocks and how to avoid/resolve them.
-- Have a “deliverable” in mind, what is the thing you can say you’ve made (or at least made progress on) at the end of the hackathon?
+**During the event**:
+- Don’t assume people know more or less than you. You never know who is going to be interested in your project
+- Provide an introduction to your project at the start of the project
+- Get to know each other: how can and does everyone want to contribute? What skills does everyone have?
+- If your group is large enough, divide tasks so that everyone can contribute in their own way
+- Have an open mind: others may have ideas you hadn’t thought of yet!
+- Remind everyone that swapping groups or leaving is ok and encouraged. This is all about getting the most about people’s enthusiasm; having people feel like they have to stay can kill that.
 
+**After the event**:
+- Acknowledge and thank everyone for their contribution to the project
+- Try to organize any materials that you want to share with others before ending the project, so your precious work doesn’t get lost!
+You are free to continue the project after the event. If you want to keep collaborating, make sure you have each other’s contact details!
 
 ## Questions?
 
