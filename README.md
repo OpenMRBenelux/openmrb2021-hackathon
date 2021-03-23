@@ -1,5 +1,3 @@
-[![Slack chat](https://img.shields.io/badge/chat-on%20slack-red)](https://join.slack.com/t/openmrworkspace/shared_invite/enQtNTI5MDU1NzE1MjQ4LThmMzA0M2Q3MjI3YzUxZmI1MDY3MDUyZWI3MjQwN2NhYjZlMDNmMDE5NTNiYTRkMzJmYzhiZGJiMDZiMzBkNzU)
-
 <!-- TOC -->
 
 - [OpenMR Benelux 2021 Hackathon](#openmr-benelux-2021-hackathon)
